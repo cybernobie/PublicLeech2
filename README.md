@@ -6,6 +6,8 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 ## installing
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ### The Eas(iest) Way
 
 - Install Docker by following the [official docker docs](https://docs.docker.com/engine/install/debian/)
